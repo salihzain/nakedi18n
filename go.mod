@@ -1,3 +1,3 @@
-module nakedi18n
+module github.com/salihzain/nakedi18n
 
 go 1.21
